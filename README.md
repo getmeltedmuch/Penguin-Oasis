@@ -1,2 +1,2 @@
-# Penguin-Oasis
-The #1 Club Penguin Private Server!
+# test-host
+just trying to host a discord bot 24/7
